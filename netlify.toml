@@ -1,0 +1,3 @@
+[build]
+  command = "ng build --configuration production"
+  publish = "dist/curso-angular-basico"  # Substitua 'nome-do-seu-app' pelo nome da sua pasta de saída.
